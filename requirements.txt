@@ -1,0 +1,5 @@
+# Minimal dependencies for the notebook-based Canny implementation
+numpy>=1.24
+matplotlib>=3.7
+ipykernel>=6.26
+pillow>=10.0
