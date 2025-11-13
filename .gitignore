@@ -123,3 +123,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Kaggle dataset
+css-data/

@@ -3,3 +3,8 @@ numpy>=1.24
 matplotlib>=3.7
 ipykernel>=6.26
 pillow>=10.0
+
+# Check cuda version in cmd: nvcc --version
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch==2.9.0+cu126
+torchvision==0.24.0+cu126
