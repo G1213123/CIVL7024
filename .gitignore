@@ -126,3 +126,5 @@ Thumbs.db
 
 # Kaggle dataset
 css-data/
+
+best_model.pt
