@@ -125,6 +125,8 @@ Thumbs.db
 *.log
 
 # Kaggle dataset
-css-data/
+css-data/test
+css-data/train
+css-data/valid
 
 best_model.pt
